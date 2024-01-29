@@ -1,0 +1,3 @@
+_G.Nguoidung = "https://discord.com/api/webhooks/1201599157610238145/oa_mNY0wodg14iaZu7YZ_os8YwoVhJfQV3N4nt_zcsk4J7sRZ3W1MRNBXfZjsRapTzjs"
+_G.daobian = "https://discord.com/api/webhooks/1201599286551511060/cYlpNRTZd61__wiNmeKAie20EvmbN2mTf6JfrpbtNsbjyfS7MTpJx_hgFozpBBuAsMED"
+_G.FullMoon = "https://discord.com/api/webhooks/1201599375311380551/4t2U_mVbLnK46wd44EAbVla20x1WT-LYkh-05q-kYfI4PkLsQGgbgAXCL77yYDozT4A6"
